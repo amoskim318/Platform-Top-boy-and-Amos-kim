@@ -1,0 +1,6 @@
+print('\033[032m[ \033[37m1 \033[032m] \033[33m Instergram likes            \033[032m[ \033[37m7 \033[032m] \033[33mWhatsapp spam ')
+print('\033[032m[ \033[37m2 \033[032m] \033[33m Instergram followers        \033[032m[ \033[37m8 \033[032m] \033[33mLinkdeln followers')
+print('\033[032m[ \033[37m3 \033[032m] \033[33m Whatsapp viwers             \033[032m[ \033[37m9 \033[032m] \033[33mFacebook clooning')
+print('\033[032m[ \033[37m4 \033[032m] \033[33m Facebook likes              \033[032m[ \033[37m1 \033[032m] \033[33mTelegram premium')
+print('\033[032m[ \033[37m5 \033[032m] \033[33m Facebook followers          \033[032m[ \033[37m1 \033[032m] \033[33mTor premium ')
+print('\033[032m[ \033[37m6 \033[032m] \033[33m Tiktok likes                \033[032m[ \033[37m7 \033[032m] \033[33mWhatsapp premium') 
