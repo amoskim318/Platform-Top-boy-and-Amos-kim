@@ -8,8 +8,8 @@ function toggleDrawer() {
     document.getElementById('downloadBtn').addEventListener('click', function () {
       // Create a temporary <a> element
       const a = document.createElement('a');
-      a.href = '/file.txt'; // Path to your file
-      a.download = 'file.txt'; // Name the file should be downloaded as
+      a.href = '/test.py'; // Path to your file
+      a.download = 'test.py'; // Name the file should be downloaded as
       document.body.appendChild(a);
       a.click();
       document.body.removeChild(a);
