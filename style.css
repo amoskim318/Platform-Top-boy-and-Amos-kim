@@ -144,7 +144,7 @@ html{
    }
       
     
-    .div1{
+    .div1,.wrapper1{
       background-color: mediumvioletred;
      /* border: 3px solid black;
       text-wrap: wrap;
